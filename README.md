@@ -21,25 +21,19 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <!-- Hareketli ve Renkli Rozetler -->
+<p align="center">
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</div>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <!-- Canlı ve Animasyonlu İstatistik Kartları -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sphcnn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sphcnn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sphcnn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sphcnn&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphcnn&layout=compact&theme=radical&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sphcnn&label=Profile%20Views&color=0e75b6&style=flat)
