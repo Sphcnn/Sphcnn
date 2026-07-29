@@ -1,33 +1,61 @@
-# Hi there, I'm Batuhan Efe Sipahican! 👋
+<!-- Yazan Yazı Animasyonu (Typing SVG) -->
+<h1 align="center">Hi there, I'm Batuhan Efe Sipahican! 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+@+PoliTo;Robotics+%26+Autonomous+Systems;Software+Developer;Competitive+FPS+Player" alt="Typing SVG" />
+  </a>
+</p>
 
-🚀 **Computer Engineering Student @ Politecnico di Torino** | **Robotics & Autonomous Systems Enthusiast**
-
-I am a passionate computer engineering student with a strong preference for practical, hands-on engineering. My core interests lie in software development, robotics, and simulation environments. I enjoy building systems that interact with the real world, from autonomous vehicles to disaster relief drones, and I am currently aiming towards a Master's degree in robotics and autonomous systems.
-
-### 🔭 What I'm currently working on
-*   🏎️ **H2politO Autonomous Driving Team:** Developing and configuring ROS 2 software nodes and addressing CAN bus hardware integration for the *Juno* vehicle project.
-*   📱 **Parking Automation App:** Designing and building a mobile application focused on local parking solutions in Ankara.
-*   📚 **Continuous Learning:** Independently studying the University of Michigan's open-source robotics curriculum.
-
-### 🏆 Highlighted Experience & Past Projects
-*   🚁 **Teknofest Finalist:** Designed and developed a disaster relief drone ("Afet Droneu") that successfully competed in the finals.
-*   👁️ **Image Processing:** Completed a voluntary internship focusing on computer vision and image processing before university.
-*   🤝 **Collaboration:** Actively managing shared repositories, version control, and conducting rigorous code reviews with my project teams.
-
-### 🛠️ Tech Stack & Tools
-*   **Robotics & Simulation:** ROS 2, Gazebo, CARLA
-*   **Systems & Architecture:** CAN bus communication, software architecture
-*   **Languages:** C++, Python *(Feel free to add your other languages here)*
-
-### ⚡ Beyond Coding
-When I step away from the IDE, you can usually find me:
-*   🎸 Playing my Fender Squier Debut Series HSS Stratocaster.
-*   🎮 Grinding competitive tactical shooters like CS2 and Valorant.
-*   🍳 Cooking home meals, from traditional Turkish Lahmacun to seafood and pasta dishes.
-
-### 📫 Let's Connect!
-*   **LinkedIn:** [Your LinkedIn URL Here]
-*   **Email:** [Your Email Address Here]
+<p align="center">
+  Building systems that interact with the real world, from autonomous vehicles to disaster relief drones. Currently aiming towards a Master's degree in robotics and autonomous systems.
+</p>
 
 ---
-⭐️ *From hardware to software, always building.*
+
+### 🔭 What I'm currently working on
+*   🏎️ **H2politO Autonomous Driving Team:** Developing ROS 2 nodes & CAN bus hardware integration for the *Juno* vehicle.
+*   📱 **Parking Automation App:** Building a mobile application for local parking solutions in Ankara.
+*   📚 **Continuous Learning:** Studying the University of Michigan's open-source robotics curriculum.
+*   🏆 **Past Highlights:** Teknofest Finalist (Disaster Relief Drone) & Computer Vision Intern.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <!-- Hareketli ve Renkli Rozetler -->
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+<p align="center">
+  <i>Simulations: Gazebo, CARLA | Architecture: CAN Bus, Microcontrollers</i>
+</p>
+
+---
+
+### ⚡ Beyond Coding
+*   🎸 Jamming on my Fender Squier HSS Stratocaster.
+*   🎮 Grinding competitive ranks in CS2 and Valorant.
+*   🍳 Cooking up a storm (from traditional Lahmacun to seafood pasta).
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <!-- Canlı ve Animasyonlu İstatistik Kartları -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KENDI_KULLANICI_ADIN&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENDI_KULLANICI_ADIN&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KENDI_KULLANICI_ADIN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
