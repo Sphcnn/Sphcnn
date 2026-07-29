@@ -21,32 +21,25 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
+<div align="center">
   <!-- Hareketli ve Renkli Rozetler -->
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-<p align="center">
-
-</p>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <!-- Canlı ve Animasyonlu İstatistik Kartları -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sphcnn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sphcnn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sphcnn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sphcnn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sphcnn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
