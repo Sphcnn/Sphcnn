@@ -15,7 +15,7 @@
 ### 🔭 What I'm currently working on
 *   🏎️ **H2politO Autonomous Driving Team:** Developing a fully autonomous car with ROS 2 for the *Juno* vehicle.
 *   📚 **Continuous Learning:** Pursuing a Bachelor's Degree in Computer Engineering at PoliTo.
-*   🏆 **Past Highlights:** Teknofest Finalist (Disaster Relief Drone), SEM 3rd Place, & Computer Vision Intern.
+*   🏆 **Past Highlights:** SEM 2026 Autonomous Driving Comptetiton : 3rd Place, Teknofest Finalist (Disaster Relief Drone),  Computer Vision Intern.
 
 ---
 
