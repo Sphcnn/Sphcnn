@@ -33,7 +33,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sphcnn&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphcnn&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sphcnn&show_icons=true&theme=dark" alt="Sphcnn's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sphcnn&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sphcnn&label=Profile%20Views&color=0e75b6&style=flat)
